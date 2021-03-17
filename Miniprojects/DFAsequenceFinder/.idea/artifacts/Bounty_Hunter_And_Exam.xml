@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bounty Hunter And Exam">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bounty_Hunter_And_Exam</output-path>
+    <root id="archive" name="Bounty Hunter And Exam.jar" />
+  </artifact>
+</component>
